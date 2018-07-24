@@ -67,7 +67,7 @@ main() {
 
   Point p0 = Point.ORIGIN;
 
-  Point p1 = new Point(0, 0);     //Uing constant constructor as normal constructor
+  Point p1 = new Point(0, 0);     //Using constant constructor as normal constructor
 
   Point p2 = new Point.clone(p0);
 

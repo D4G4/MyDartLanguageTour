@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38f09f7f-2519-45b6-a18b-01d8f99f9ea9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DartDemos/AmazonStaircaseProblem.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DartDemos/AsynchronousDemo.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DartDemos/Asynchronous_AsyncFunction.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DartDemos/Asynchronous_Await.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DartDemos/Test.dart" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/AsynchronousStructure.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/FileDemo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/StreamsDemo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_1_Introduction.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DartDemos/UnderstandingConceptOfConstantConstructor.dart" beforeDir="false" afterPath="$PROJECT_DIR$/DartDemos/UnderstandingConceptOfConstantConstructor.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,30 +19,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DartFor_FunctionalProgramming.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DartDemos/DartFor_FunctionalProgramming.dart">
+    <leaf>
+      <file leaf-file-name="_2_FactoryConstructors.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            <state relative-caret-position="105">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Asynchronous_Await.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DartDemos/Asynchronous_Await.dart">
+      <file leaf-file-name="FactoryConstructorDemo.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DartDemos/FactoryConstructorDemo.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AsynchronousDemo.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DartDemos/AsynchronousDemo.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="-641">
+              <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -65,6 +58,7 @@
       <find>=&gt;</find>
       <find>-&gt;</find>
       <find>_</find>
+      <find>unable to</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -86,7 +80,6 @@
         <option value="$PROJECT_DIR$/DartDemos/UseOptionalParameters.dart" />
         <option value="$PROJECT_DIR$/DartDemos/CreateAFactory.dart" />
         <option value="$PROJECT_DIR$/DartDemos/DartFor_FunctionalProgramming.dart" />
-        <option value="$PROJECT_DIR$/DartDemos/UnderstandingConceptOfConstantConstructor.dart" />
         <option value="$PROJECT_DIR$/DartDemos/InvokingNonDefaultSuperClassConstructor.dart" />
         <option value="$PROJECT_DIR$/DartDemos/FactoryConstructorDemo.dart" />
         <option value="$PROJECT_DIR$/DartDemos/ImplicitInterfactDemo.dart" />
@@ -99,6 +92,13 @@
         <option value="$PROJECT_DIR$/DartDemos/AsynchronousDemo.dart" />
         <option value="$PROJECT_DIR$/DartDemos/AsynchronousFunctions.dart" />
         <option value="$PROJECT_DIR$/DartDemos/Asynchronous_Await.dart" />
+        <option value="$PROJECT_DIR$/DartDemos/UnderstandingConceptOfConstantConstructor.dart" />
+        <option value="$PROJECT_DIR$/TensorProgrammingTutorials/AsynchronousStructure.dart" />
+        <option value="$PROJECT_DIR$/TensorProgrammingTutorials/StreamsDemo.dart" />
+        <option value="$PROJECT_DIR$/TensorProgrammingTutorials/FileDemo.dart" />
+        <option value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/ClassDemo.dart" />
+        <option value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/ClassDemo_2_FactorConsturcor.dart" />
+        <option value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart" />
       </list>
     </option>
   </component>
@@ -114,10 +114,30 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DartLanguageTour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DartLanguageTour" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DartLanguageTour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DartLanguageTour" type="462c0819:PsiDirectoryNode" />
+              <item name="DartDemos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="DartCon&#9;FILE&#9;file:///home/daksh/IdeaProjects/DartLanguageTour/DartDemos/DartConcepts.dart" />
+    <property name="SearchEverywhereHistoryKey" value="Const&#9;FILE&#9;file:///home/daksh/IdeaProjects/DartLanguageTour/DartDemos/UnderstandingConceptOfConstantConstructor.dart&#10;DartCon&#9;FILE&#9;file:///home/daksh/IdeaProjects/DartLanguageTour/DartDemos/DartConcepts.dart" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
@@ -131,6 +151,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures" />
       <recent name="$PROJECT_DIR$/DartDemos" />
     </key>
   </component>
@@ -146,32 +167,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.Asynchronous_Await.dart">
+  <component name="RunManager" selected="Dart Command Line App._2_FactoryConstructors.dart">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="AmazonStaircaseProblem.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/DartDemos/AmazonStaircaseProblem.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/DartDemos" />
+    <configuration name="AsynchronousStructure.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/AsynchronousStructure.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures" />
     </configuration>
-    <configuration name="AsynchronousDemo.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/DartDemos/AsynchronousDemo.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/DartDemos" />
+    <configuration name="FileDemo.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/FileDemo.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures" />
     </configuration>
-    <configuration name="Asynchronous_Await.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/DartDemos/Asynchronous_Await.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/DartDemos" />
+    <configuration name="StreamsDemo.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/StreamsDemo.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures" />
     </configuration>
-    <configuration name="Generics.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/DartDemos/Generics.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/DartDemos" />
+    <configuration name="_1_Introduction.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_1_Introduction.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP" />
     </configuration>
-    <configuration name="TypeDefsDemo.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/DartDemos/TypeDefsDemo.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/DartDemos" />
+    <configuration name="_2_FactoryConstructors.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -212,19 +233,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.TypeDefsDemo.dart" />
-      <item itemvalue="Dart Command Line App.Generics.dart" />
-      <item itemvalue="Dart Command Line App.AmazonStaircaseProblem.dart" />
-      <item itemvalue="Dart Command Line App.AsynchronousDemo.dart" />
-      <item itemvalue="Dart Command Line App.Asynchronous_Await.dart" />
+      <item itemvalue="Dart Command Line App.AsynchronousStructure.dart" />
+      <item itemvalue="Dart Command Line App.StreamsDemo.dart" />
+      <item itemvalue="Dart Command Line App.FileDemo.dart" />
+      <item itemvalue="Dart Command Line App._1_Introduction.dart" />
+      <item itemvalue="Dart Command Line App._2_FactoryConstructors.dart" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.Asynchronous_Await.dart" />
-        <item itemvalue="Dart Command Line App.AsynchronousDemo.dart" />
-        <item itemvalue="Dart Command Line App.AmazonStaircaseProblem.dart" />
-        <item itemvalue="Dart Command Line App.Generics.dart" />
-        <item itemvalue="Dart Command Line App.TypeDefsDemo.dart" />
+        <item itemvalue="Dart Command Line App._2_FactoryConstructors.dart" />
+        <item itemvalue="Dart Command Line App._1_Introduction.dart" />
+        <item itemvalue="Dart Command Line App.FileDemo.dart" />
+        <item itemvalue="Dart Command Line App.StreamsDemo.dart" />
+        <item itemvalue="Dart Command Line App.AsynchronousStructure.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -253,13 +274,13 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32786885" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48856208" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.66993463" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.8071895" />
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3128788" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22575757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -269,11 +290,11 @@
       <window_info anchor="right" id="Flutter Inspector" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -284,101 +305,11 @@
       <option name="time" value="6" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DartDemos/DartConcepts.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1508">
-          <caret line="58" column="8" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/AmazonStaircaseProblem.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/Generics.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/Generics.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/Generics.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/Generics.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/TypeDefsDemo.dart">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/InvokingNonDefaultSuperClassConstructor.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/InvokingNonDefaultSuperClassConstructor.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/DartConcepts.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8242">
-          <caret line="317" column="26" selection-start-line="317" selection-start-column="26" selection-end-line="317" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/InvokingNonDefaultSuperClassConstructor.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/ClassesInDart.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/DartConcepts.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8242">
-          <caret line="317" column="26" selection-start-line="317" selection-start-column="26" selection-end-line="317" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/InvokingNonDefaultSuperClassConstructor.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DartDemos/ClassesInDart.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -519,20 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/UnderstandingConceptOfConstantConstructor.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1458">
-          <caret line="90" column="10" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/FactoryConstructorDemo.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2660">
-          <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DartDemos/ImplicitInterfactDemo.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -610,17 +527,112 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DartDemos/Asynchronous_Await.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DartDemos/DartFor_FunctionalProgramming.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="101">
           <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/Asynchronous_Await.dart">
+    <entry file="file://$PROJECT_DIR$/DartDemos/UnderstandingConceptOfConstantConstructor.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="231">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/test.txt" />
+    <entry file="file:///usr/lib/dart/lib/io/file.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/dart/lib/io/file_system_entity.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="284" column="15" selection-start-line="284" selection-start-column="15" selection-end-line="284" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/dart/lib/core/sink.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/dart/lib/io/io_sink.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/Test 2.txt" />
+    <entry file="file:///usr/lib/dart/lib/async/stream.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="366" column="24" selection-start-line="366" selection-start-column="24" selection-end-line="366" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/testFromFileDemo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/testFromFileDemo2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/StreamsDemo.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/FileDemo.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/AsynchronousStructure.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_1_Introduction.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="22" lean-forward="true" selection-end-line="36" />
+          <folding>
+            <element signature="e#259#320#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DartDemos/FactoryConstructorDemo.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-641">
+          <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
