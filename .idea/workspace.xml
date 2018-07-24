@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38f09f7f-2519-45b6-a18b-01d8f99f9ea9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/AsynchronousStructure.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/FileDemo.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/StreamsDemo.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_1_Introduction.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_3_OverridingOperators.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_4_GettersAndSetters.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DartDemos/UnderstandingConceptOfConstantConstructor.dart" beforeDir="false" afterPath="$PROJECT_DIR$/DartDemos/UnderstandingConceptOfConstantConstructor.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_2_FactoryConstructors.dart" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_2_FactoryConstructors.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="338">
+              <caret line="13" column="16" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_3_OverridingOperators.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_3_OverridingOperators.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_4_GettersAndSetters.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_4_GettersAndSetters.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -32,7 +47,7 @@
       <file leaf-file-name="FactoryConstructorDemo.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DartDemos/FactoryConstructorDemo.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-641">
+            <state relative-caret-position="-393">
               <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
             </state>
           </provider>
@@ -98,7 +113,9 @@
         <option value="$PROJECT_DIR$/TensorProgrammingTutorials/FileDemo.dart" />
         <option value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/ClassDemo.dart" />
         <option value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/ClassDemo_2_FactorConsturcor.dart" />
+        <option value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_3_OverridingOperators.dart" />
         <option value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart" />
+        <option value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_4_GettersAndSetters.dart" />
       </list>
     </option>
   </component>
@@ -125,7 +142,13 @@
             <path>
               <item name="DartLanguageTour" type="b2602c69:ProjectViewProjectNode" />
               <item name="DartLanguageTour" type="462c0819:PsiDirectoryNode" />
-              <item name="DartDemos" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorProgrammingTutorials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DartLanguageTour" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DartLanguageTour" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorProgrammingTutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial2_OOP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,23 +190,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App._2_FactoryConstructors.dart">
+  <component name="RunManager" selected="Dart Command Line App._4_GettersAndSetters.dart">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="AsynchronousStructure.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/AsynchronousStructure.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures" />
-    </configuration>
     <configuration name="FileDemo.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/FileDemo.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures" />
-    </configuration>
-    <configuration name="StreamsDemo.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures/StreamsDemo.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial1_AsynchronousStructures" />
     </configuration>
     <configuration name="_1_Introduction.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
@@ -192,6 +207,14 @@
     </configuration>
     <configuration name="_2_FactoryConstructors.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP" />
+    </configuration>
+    <configuration name="_3_OverridingOperators.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_3_OverridingOperators.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP" />
+    </configuration>
+    <configuration name="_4_GettersAndSetters.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_4_GettersAndSetters.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -233,19 +256,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.AsynchronousStructure.dart" />
-      <item itemvalue="Dart Command Line App.StreamsDemo.dart" />
       <item itemvalue="Dart Command Line App.FileDemo.dart" />
       <item itemvalue="Dart Command Line App._1_Introduction.dart" />
       <item itemvalue="Dart Command Line App._2_FactoryConstructors.dart" />
+      <item itemvalue="Dart Command Line App._3_OverridingOperators.dart" />
+      <item itemvalue="Dart Command Line App._4_GettersAndSetters.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App._4_GettersAndSetters.dart" />
+        <item itemvalue="Dart Command Line App._3_OverridingOperators.dart" />
         <item itemvalue="Dart Command Line App._2_FactoryConstructors.dart" />
         <item itemvalue="Dart Command Line App._1_Introduction.dart" />
         <item itemvalue="Dart Command Line App.FileDemo.dart" />
-        <item itemvalue="Dart Command Line App.StreamsDemo.dart" />
-        <item itemvalue="Dart Command Line App.AsynchronousStructure.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -280,12 +303,12 @@
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22575757" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22575757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Flutter Inspector" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -310,20 +333,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DartDemos/ClassesInDart.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DartDemos/DartConcepts.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6292">
-          <caret line="242" selection-start-line="242" selection-end-line="242" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DartDemos/CreateASimpleDartClass.dart">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -624,15 +633,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DartDemos/FactoryConstructorDemo.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-641">
+        <state relative-caret-position="-393">
           <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_2_FactoryConstructors.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="338">
+          <caret line="13" column="16" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_3_OverridingOperators.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorProgrammingTutorials/tutorial2_OOP/_4_GettersAndSetters.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
