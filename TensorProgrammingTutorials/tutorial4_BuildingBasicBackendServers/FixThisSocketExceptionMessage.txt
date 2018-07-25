@@ -1,0 +1,3 @@
+$ netstat -lp | grep [your Port Number]
+Find the PID
+$ kill [PID]

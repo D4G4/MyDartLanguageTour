@@ -1,10 +1,10 @@
 class A {
-  void classAsMethod() => print("A's method");
+  void classA_Method() => print("A's method");
 }
 
 class B implements A {
   @override
-  void classAsMethod() => print("A's method inside B");
+  void classA_Method() => print("A's method inside B");
 
   void classBsMethod() => print("B's method");
 }
@@ -22,8 +22,8 @@ class E extends A with C, B {
 
 void main() {
   D d = new D();
-  d.classAsMethod();
+  d.classA_Method();
 
   E e = new E();
-  e.classAsMethod();
+  e.classA_Method();
 }

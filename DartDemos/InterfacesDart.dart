@@ -1,13 +1,19 @@
-class Quackable {
-  void quack(){}
+main(){
+  sayQuack(new EnterpriseDuck());
+  sayQuack(MockDuck());
+  //sayQuack(new Person());
 }
 
 sayQuack(Quackable quackable){
   quackable.quack();
 }
 
+class Quackable {
+  void quack(){}
+}
+
 class MockDuck implements Quackable {
-  void quack() => print("Quack");
+  void quack() => print("MockDuck: Quack");
   void q(){}
 }
 
@@ -18,12 +24,5 @@ class Person {
 class EnterpriseDuck extends Quackable {
   void quack() {
     print("Hi, I am a Enterprise Duck");
-    print("Qua the fkin k");
   }
-}
-
-main(){
-  sayQuack(new EnterpriseDuck());
-  sayQuack(MockDuck());
-  //sayQuack(new Person());
 }
