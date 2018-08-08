@@ -27,7 +27,7 @@ class Point {
   //A final variable is NOT a Immutable variable, it is a var that can be assigned a single time.
   //So, [1 (44)]
   final String name;
-  int _x, _y;    //These are accessible in same File
+  int _x, _y; //These are accessible in same File
 
   //But this is accessible only inside this class
   static final Map<String, Point> _cache = <String, Point>{};
@@ -45,8 +45,10 @@ class Point {
   Point(this._x, this._y,
       {this.name}); //Dart's sugar syntax, 'name' is optional and tells that this is a "named" property
 
-  //[1] when the Point gets instantiated, the String name needs to be assigned otherwise it cannot be mutated later.
-  //So we will use something called "Inifializer List" -> "You want essentially executet this code before the body gets executed.
+  //[1] when the Point gets instantiated,
+  // the String name needs to be assigned otherwise it cannot be mutated later.
+  //So we will use something called "Inifializer List"
+  // -> "You want to essentially execute this code before the body gets executed.
   Point.zero() : name = "zero" {
     _x = 0;
     _y = 0;
@@ -64,13 +66,14 @@ class Point {
   int get add => _x + y;
 
   get x => _x;
+
   get y => _y;
 
   void set x(val) {
     _x = val;
   }
 
-  void set y (val) {
+  void set y(val) {
     _y = val;
   }
 }

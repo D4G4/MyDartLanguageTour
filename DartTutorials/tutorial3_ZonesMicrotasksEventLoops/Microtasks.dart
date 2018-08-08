@@ -6,7 +6,7 @@
 /// Now, dart has 2 Queues and 1 EventLoop
 /// 2 Queues = We have an [EventQueue] and the [MicroTask] queue.
 ///                       [EventQueue] typically handles outside events  (IO, mouse clicks, timers, messages from isolates)
-///         And [MircoTask] is built on top of it for different parts that need that specific type of functionality.
+///                       [MircoTask] is built on top of it for different parts that need that specific type of functionality.
 
 import 'dart:async';
 

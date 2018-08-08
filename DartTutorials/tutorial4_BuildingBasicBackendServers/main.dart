@@ -8,7 +8,6 @@ Future main() async {
 }
 
 Future startServer() async {
-  File file = File("index.html");
   HttpServer server;
   try {
     server = await HttpServer.bind(
@@ -17,9 +16,9 @@ Future startServer() async {
     );
     print('Listening on localhost:${server.port}');
   } on SocketException {
-    print('Socket Exception, to fix this\n');
-    File errorMessageFile =
-        File("FixThisSocketExceptionMessage.txt");
+    print(
+        'Socket Exception, Server address already in use, can not re-create a server\n');
+    File errorMessageFile = File("FixThisSocketExceptionMessage.txt");
     if (await errorMessageFile.exists()) {
       await errorMessageFile.open(mode: FileMode.read);
       Stream<List<int>> byteStream = errorMessageFile.openRead();
@@ -33,39 +32,44 @@ Future startServer() async {
           .listen((str) => print(str),
               onError: (e) => print("Server port already open"));*/
       byteStream.listen((byte) => print(utf8.decode(byte)));
-
-    }else{
+    } else {
       print("Server port already open");
     }
   } catch (e) {
     print('failed to start server $e');
   }
 
+  File file = File("indexx.html");
   await for (var httpRequest in server) {
     if (await file.exists()) {
-      print('Serving ${file.path}');
-      httpRequest.response..headers.contentType = ContentType.html;
       try {
-        await file.openRead().pipe(httpRequest.response);
+        print('Serving ${file.path}');
+        httpRequest.response..headers.contentType = ContentType.html;
+        await file
+            .openRead()
+            .pipe(httpRequest.response); //The StreamConsumer will be closed
       } catch (e) {
-        print("Couldn't read file $e");
+        print('Could not read file: $e');
         exit(-1);
       }
+    } else {
+      httpRequest.response
+        ..statusCode = HttpStatus.notFound
+        ..close();
     }
   }
 
   ///Now, the [Server] object is basically a [Stream] of [HttpRequest] objects that are
   ///passed back and forth through the server.
-  if (server != null)
+  ///
+  ///    request.response.write("This is some text");
+  ///    request.response.close();
+  /*if (server != null)
     server.listen((HttpRequest request) {
-      /*
-    request.response.write("This is some text");
-    request.response.close();
-    */
       request.response
         ..write('<h1>This is some Texttt</h1>')
         ..close();
-    });
+    });*/
 }
 
 Future makeFile() async {

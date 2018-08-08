@@ -7,7 +7,8 @@ import 'dart:async';
 ///         -> Response from an API
 ///         -> Reading from files
 
-///      One of the easist way to deal with stream is to use await for loop, sort of like "Async for loop"
+/// One of the easist way to deal with stream is to use `await for` loop, 
+/// sort of like "Async for loop"
 main(List<String> args) async {
   ///await for loop
   Stream simpleStream = exampleStream(5);
@@ -29,7 +30,8 @@ main(List<String> args) async {
 }
 
 /// Simple [Stream] generator
-/// So this "generator" is a function that uses [async]* and then [yield] as the return.
+/// So this "generator" is a function that uses `async*` and 
+/// then `yield` as the return statement.
 Stream<int> exampleStream(int x) async* {
   for (int i = 0; i < x; i++) {
     await Future.delayed(Duration(milliseconds: 300));

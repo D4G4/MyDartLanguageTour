@@ -3,7 +3,6 @@ main() {
   //var onlyStepsToBeTaken = [1, 3, 5];
   print(numOfWays(8, [1, 3, 5]));
 }
-
 int numOfWays(int noOfTotalSteps, [var onlyPossibleSteps]) {
   if (onlyPossibleSteps.length == 0) {
     int counter = 1;
